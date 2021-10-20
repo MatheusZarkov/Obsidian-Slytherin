@@ -11,4 +11,4 @@ The core css uses Minimal theme from the amazing css stylist Kepano, who did an 
 ## Disclaimer
 > This theme modifies significant parts of the Obsidian interface, so it might break with future updates. It may also be incompatible with other bits of custom CSS you have. The theme file is organized in such a way that you can comment out sections that may be causing conflicts. - Kepano
 ___
-![](https://i.imgur.com/MFxf1ri.png)
+![](https://i.imgur.com/jvdjA1R.png)
