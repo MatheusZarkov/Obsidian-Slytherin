@@ -1,5 +1,5 @@
 # Obsidian Slytherin
-![](https://i.imgur.com/jvdjA1R.png)
+![](https://i.imgur.com/273mneE.png)
 ___
 This is an [Osidian.md](https://obsidian.md/) theme inspired on Slytherin colors from Harry Potter series.
 
